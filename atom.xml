@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hnjmxy.top</id>
     <title>Linux社团</title>
-    <updated>2021-04-20T13:37:52.351Z</updated>
+    <updated>2021-04-20T13:59:12.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.hnjmxy.top"/>
     <link rel="self" href="https://www.hnjmxy.top/atom.xml"/>
@@ -11,15 +11,50 @@
     <icon>https://www.hnjmxy.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Linux社团</rights>
     <entry>
-        <title type="html"><![CDATA[2020]]></title>
+        <title type="html"><![CDATA[2020任命社长]]></title>
         <id>https://www.hnjmxy.top/post/2020/</id>
         <link href="https://www.hnjmxy.top/post/2020/">
         </link>
         <updated>2021-04-20T13:32:44.000Z</updated>
         <content type="html"><![CDATA[<h1 id="社长">社长</h1>
 <p>姓名：郭常贺</p>
+<h3 id="大赛经历">大赛经历：</h3>
+<ul>
+<li>全国大赛云计算赛项国家二等奖（全国第六）</li>
+<li>河南省职业技能大赛云计算赛项一等奖第一名</li>
+<li>优秀学生干部、优秀团员、学业奖学金</li>
+</ul>
+<h3 id="荣誉证书">荣誉证书：</h3>
+<ul>
+<li>红帽认证系统管理员（RHCSA)</li>
+<li>红帽认证系统工程师(RHCE)</li>
+<li>性能调优专家</li>
+<li>分布式存储专家</li>
+<li>红帽认证自动化专家、</li>
+<li>红帽认证OpenShift管理专家</li>
+<li>红帽认证OpenStack系统管理员</li>
+<li>国际RHCA系统架构师、</li>
+<li>红帽认证系统高级架构师</li>
+<li>新华三云计算一等奖第一名</li>
+<li>信大捷安云计算一等奖第一名</li>
+<li>信大捷安办公竞赛一等奖第一名</li>
+<li>河南经贸技能竞赛优秀学生代表</li>
+<li>计算机工程学院竞赛之星代表</li>
+</ul>
 <h1 id="副社">副社</h1>
 <p>姓名：代小龙</p>
+<h3 id="获奖经历">获奖经历</h3>
+<ul>
+<li>新华三杯国赛三等奖</li>
+<li>新华三杯省赛一等奖</li>
+<li>蓝桥杯省赛二等奖</li>
+<li>2020互联网+ 省赛一等奖</li>
+</ul>
+<h3 id="职业证书">职业证书：</h3>
+<ul>
+<li>网络设备调试员四级</li>
+<li>华为鲲鹏 HCIA</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
