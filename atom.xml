@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.hnjmxy.top</id>
     <title>Linux社团</title>
-    <updated>2021-04-20T14:11:04.496Z</updated>
+    <updated>2021-04-20T14:28:35.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.hnjmxy.top"/>
     <link rel="self" href="https://www.hnjmxy.top/atom.xml"/>
@@ -21,7 +21,7 @@
         <content type="html"><![CDATA[<p>2020新的一年，这里是我们鹅城新上任的社长</p>
 <!-- more -->
 <h1 id="社长">社长</h1>
-<p>😎<br>
+<p><font size=10>😎</font><br>
 姓名：<strong>郭常贺</strong></p>
 <h3 id="大赛经历">大赛经历：</h3>
 <ul>
@@ -47,8 +47,9 @@
 <li>计算机工程学院竞赛之星代表</li>
 </ul>
 <h1 id="副社">副社</h1>
-<p>🤠<br>
-姓名：<strong>代小龙</strong></p>
+<p><font size=10>🤠</font><br>
+姓名：<strong>代小龙</strong><br>
+邮箱：1091198228@qq.com</p>
 <h3 id="获奖经历">获奖经历</h3>
 <ul>
 <li>新华三杯国赛三等奖</li>
